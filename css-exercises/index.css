@@ -28,3 +28,11 @@ div ~ p{
 div + p{
     background-color: pink;
 }
+li{
+    list-style: none;
+    list-style-type: lower-latin;
+
+}
+a{
+    text-decoration: none;
+}
