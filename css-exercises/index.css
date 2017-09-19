@@ -13,3 +13,18 @@ a[href$="stortorget"] {
 a[href$="12z"] {
     color: black;
 }
+h1{
+    background-color: grey;
+}
+body p{
+    background-color: red;
+}
+div p{
+    background-color: green;
+}
+div ~ p{
+    background-color: yellow;
+}
+div + p{
+    background-color: pink;
+}
