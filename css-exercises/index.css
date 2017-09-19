@@ -4,3 +4,12 @@
 .stil10{
     font-size: 30px;
 }
+a[href*="hd"] {
+    color: green;
+}
+a[href$="stortorget"] {
+    color: red;
+}
+a[href$="12z"] {
+    color: black;
+}
