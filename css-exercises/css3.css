@@ -1,0 +1,7 @@
+body{
+    color: #000;
+}
+
+article p:first-child{
+    color: #ff0000;
+}
