@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: red;
+    padding-bottom: 20px;
+}
+nav{
+    background-color: forestgreen;
+    padding-bottom: 20px;
+}
+main{
+    background-color: blueviolet;
+    padding-bottom: 600px;
+    padding-right: 70%;
+    float: left;
+
+}
+aside{
+    background-color: turquoise;
+    padding-bottom: 600px;
+
+}
+footer{
+    background-color: orange;
+    padding-bottom: 10px;
+}
