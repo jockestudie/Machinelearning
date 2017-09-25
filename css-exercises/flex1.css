@@ -1,0 +1,23 @@
+.container-1 div{
+    border:1px #ccc solid;
+    padding: 10px;
+
+
+}
+.container-1{
+    display: flex;
+
+}
+
+.box-1{
+    flex:6;
+    order: 3;
+}
+.box-2{
+    flex:2;
+
+}
+.box-3{
+    flex:1;
+    flex-basis: 30%;
+}
