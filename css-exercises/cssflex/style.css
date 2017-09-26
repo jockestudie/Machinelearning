@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 4vw ;
+
+
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 10fr 1fr 1fr;
+    grid-template-areas:
+            "header header header"
+            "navbar navbar navbar"
+            "content content content"
+            "sidebar sidebar sidebar"
+            "footer footer footer";
+
+}
+
+.header{
+    grid-area: header;
+    background-color: yellow;
+    padding: 20px;
+
+}
+
+.navbar{
+    grid-area: navbar;
+    background-color: grey ;
+    padding: 20px;
+
+
+}
+.list{
+
+}
+.li{
+    display: inline-block;
+    border-left: solid;
+    border-right: solid;
+    padding: 7px;
+
+}
+
+.content{
+    grid-area: content;
+    background-color: white ;
+    padding-top: 20px;
+    width: 300px;
+    margin: auto;
+
+
+}
+
+.sidebar{
+    grid-area: sidebar;
+    background-color: white ;
+    padding-top: 20px;
+    margin: auto;
+
+}
+
+.footer{
+
+    grid-area: footer;
+    background-color: palevioletred;
+    padding: 20px;
+
+}
+.fo{
+    display: inline-block;
+    padding: 0 120px;
+}
+
+@media screen and (min-width: 736px)
+{
+    *{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        font-size: 2vw;
+
+    }
+
+    .grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 10fr 1fr;
+        grid-template-areas:
+                "header header header"
+                "navbar navbar navbar"
+                "content content sidebar"
+                "footer footer footer";
+
+    }
+}
