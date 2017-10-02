@@ -1,5 +1,5 @@
 body{
-  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  font-family: 'Open Sans', sans-serif;
   padding:0;
   margin:0;
   background-color:#f4f4f4;
@@ -26,7 +26,7 @@ ul{
   color:#ffffff;
 }
 
-.dark{
+#main-col p:nth-child(3){
   padding:15px;
   background:#35424a;
   color:#ffffff;
@@ -154,6 +154,8 @@ article#main-col{
   float:left;
   width:65%;
   font-size: large;
+  line-height: 30px;
+  letter-spacing: 2px;
 }
 
 article#main-col h1{
@@ -191,6 +193,11 @@ ul#services li{
 
 .skills h2{
     text-align: left;
+}
+
+#services a{
+  color: #000;
+
 }
 
 
