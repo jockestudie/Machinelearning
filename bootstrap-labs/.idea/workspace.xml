@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48a73be4-d094-48ff-8c1e-0f748e64d5e5" name="Default" comment="third commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/img/about1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/img/about2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/img/about3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/img/mass1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/img/mass3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab1/indextest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/all-treatments.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/classic-massage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/taktil-massage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/treatments.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/bootstrap-exercises/bootstrap-custom.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/bootstrap-exercises/wireframe1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/bootstrap-exercises/wireframe1/style2.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/bootstrap-exercises/wireframe2/index.html" />
       <change type="DELETED" beforePath="$USER_HOME$/Desktop/Bootstrapphotoapp/css/bootstrap-theme.min.css" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/Desktop/Bootstrapphotoapp/css/bootstrap.min.css" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/Desktop/Bootstrapphotoapp/css/style.css" afterPath="" />
@@ -24,14 +16,17 @@
       <change type="DELETED" beforePath="$USER_HOME$/Desktop/Bootstrapphotoapp/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/Desktop/Bootstrapphotoapp/index.html" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/Desktop/Bootstrapphotoapp/js/bootstrap.min.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lab1/index.html" afterPath="$PROJECT_DIR$/lab2/index.html" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Bootstrapphotoapp/.idea/workspace.xml" afterPath="$USER_HOME$/Bootstrapphotoapp/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Bootstrapphotoapp/css/style.css" afterPath="$USER_HOME$/Bootstrapphotoapp/css/style.css" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Bootstrapphotoapp/index.html" afterPath="$USER_HOME$/Bootstrapphotoapp/index.html" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/bootstrap-exercises/.idea/modules.xml" afterPath="$USER_HOME$/bootstrap-exercises/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/bootstrap-exercises/.idea/workspace.xml" afterPath="$USER_HOME$/bootstrap-exercises/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/bootstrap-exercises/index.html" afterPath="$USER_HOME$/bootstrap-exercises/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/bootstrap-exercises/style.css" afterPath="$USER_HOME$/bootstrap-exercises/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/classic-massage.html" afterPath="$PROJECT_DIR$/lab2/classic-massage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/index.html" afterPath="$PROJECT_DIR$/lab2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/taktil-massage.html" afterPath="$PROJECT_DIR$/lab2/taktil-massage.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,13 +40,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2388">
-              <caret line="7" column="83" lean-forward="false" selection-start-line="7" selection-start-column="83" selection-end-line="7" selection-end-column="83" />
+            <state relative-caret-position="-1269">
+              <caret line="43" column="24" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
               <folding>
-                <element signature="e#5161#5167#0" expanded="true" />
+                <element signature="e#5139#5145#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,8 +55,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="-297">
+              <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -70,7 +65,7 @@
       <file leaf-file-name="treatments.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2/treatments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2619">
+            <state relative-caret-position="513">
               <caret line="97" column="127" lean-forward="false" selection-start-line="97" selection-start-column="127" selection-end-line="97" selection-end-column="127" />
               <folding>
                 <element signature="e#5637#5643#0" expanded="true" />
@@ -82,10 +77,10 @@
       <file leaf-file-name="taktil-massage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2/taktil-massage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2283">
-              <caret line="85" column="25" lean-forward="true" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
+            <state relative-caret-position="33">
+              <caret line="73" column="25" lean-forward="true" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
               <folding>
-                <element signature="e#5121#5127#0" expanded="true" />
+                <element signature="e#4865#4871#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,20 +89,20 @@
       <file leaf-file-name="classic-massage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2/classic-massage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2754">
-              <caret line="102" column="85" lean-forward="false" selection-start-line="102" selection-start-column="85" selection-end-line="102" selection-end-column="85" />
+            <state relative-caret-position="447">
+              <caret line="110" column="0" lean-forward="true" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
               <folding>
-                <element signature="e#5351#5357#0" expanded="true" />
+                <element signature="e#5022#5028#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab2/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="540">
+              <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
               <folding>
                 <element signature="e#5244#5250#0" expanded="true" />
               </folding>
@@ -137,9 +132,10 @@
         <option value="$PROJECT_DIR$/lab2/all-treatments.html" />
         <option value="$PROJECT_DIR$/lab2/style.css" />
         <option value="$PROJECT_DIR$/lab2/treatments.html" />
+        <option value="$PROJECT_DIR$/lab2/about.html" />
+        <option value="$USER_HOME$/bootstrap-exercises/index.html" />
         <option value="$PROJECT_DIR$/lab2/taktil-massage.html" />
         <option value="$PROJECT_DIR$/lab2/classic-massage.html" />
-        <option value="$PROJECT_DIR$/lab2/about.html" />
         <option value="$PROJECT_DIR$/lab2/index.html" />
       </list>
     </option>
@@ -190,12 +186,6 @@
               <item name="bootstrap-labs" type="462c0819:PsiDirectoryNode" />
               <item name="lab2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bootstrap-labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bootstrap-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="lab2" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -207,7 +197,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/bootstrap-exercises" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
@@ -249,12 +239,12 @@
       <updated>1509464234088</updated>
       <workItem from="1509464235252" duration="16812000" />
       <workItem from="1510212397215" duration="39000" />
-      <workItem from="1510232507350" duration="37258000" />
+      <workItem from="1510232507350" duration="41365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54109000" />
+    <option name="totallyTimeSpent" value="58216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -299,7 +289,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5161#5167#0" expanded="true" />
+            <element signature="e#5139#5145#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -309,7 +299,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5161#5167#0" expanded="true" />
+            <element signature="e#5139#5145#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -328,14 +318,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="340" column="53" lean-forward="false" selection-start-line="340" selection-start-column="53" selection-end-line="340" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/bootstrap-exercises/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -412,37 +394,45 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/style.css">
+    <entry file="file://$USER_HOME$/bootstrap-exercises/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="415">
+          <caret line="351" column="4" lean-forward="false" selection-start-line="351" selection-start-column="4" selection-end-line="351" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab2/classic-massage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2754">
-          <caret line="102" column="85" lean-forward="false" selection-start-line="102" selection-start-column="85" selection-end-line="102" selection-end-column="85" />
+        <state relative-caret-position="447">
+          <caret line="110" column="0" lean-forward="true" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
           <folding>
-            <element signature="e#5351#5357#0" expanded="true" />
+            <element signature="e#5022#5028#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/taktil-massage.html">
+    <entry file="file://$PROJECT_DIR$/lab2/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2283">
-          <caret line="85" column="25" lean-forward="true" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
+        <state relative-caret-position="-297">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1269">
+          <caret line="43" column="24" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
-            <element signature="e#5121#5127#0" expanded="true" />
+            <element signature="e#5139#5145#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab2/treatments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2619">
+        <state relative-caret-position="513">
           <caret line="97" column="127" lean-forward="false" selection-start-line="97" selection-start-column="127" selection-end-line="97" selection-end-column="127" />
           <folding>
             <element signature="e#5637#5643#0" expanded="true" />
@@ -450,22 +440,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/about.html">
+    <entry file="file://$PROJECT_DIR$/lab2/taktil-massage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="33">
+          <caret line="73" column="25" lean-forward="true" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
           <folding>
-            <element signature="e#5244#5250#0" expanded="true" />
+            <element signature="e#4865#4871#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/index.html">
+    <entry file="file://$PROJECT_DIR$/lab2/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2388">
-          <caret line="7" column="83" lean-forward="false" selection-start-line="7" selection-start-column="83" selection-end-line="7" selection-end-column="83" />
+        <state relative-caret-position="540">
+          <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
           <folding>
-            <element signature="e#5161#5167#0" expanded="true" />
+            <element signature="e#5244#5250#0" expanded="true" />
           </folding>
         </state>
       </provider>

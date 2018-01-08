@@ -1,7 +1,13 @@
 body{
     padding-top: 50px;
-}
+    background: #807671 ;
+    margin-bottom: 200px;
 
+}
+.container{
+    margin-bottom: 200px;
+
+}
 .em-text{
     color: #1caa98 !important;
 }
@@ -15,4 +21,9 @@ body{
 .jumbotron .app-btn{
     width: 40%;
     margin-right: 30px;
+}
+.tab-content {
+    padding: 20px;
+
+
 }

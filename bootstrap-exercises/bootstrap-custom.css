@@ -1,0 +1,20 @@
+.btn-primary {
+    background-color: olive;
+    border-color: yellow;
+}
+.jumbotron {
+    background-color: lightpink;
+    color: red;
+}
+.navbar{
+    border-radius: 20px;
+}
+p{
+    text-transform: uppercase;
+}
+.panel-body{
+    background-color: #5bc0de;
+}
+.panel-footer{
+    background-color: yellow;
+}

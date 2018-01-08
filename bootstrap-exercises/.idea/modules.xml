@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../bootstarp-exercises/.idea/bootstarp exercises.iml" filepath="$PROJECT_DIR$/../bootstarp-exercises/.idea/bootstarp exercises.iml" />
+      <module fileurl="file://$USER_HOME$/bootstarp-exercises/.idea/bootstarp exercises.iml" filepath="$USER_HOME$/bootstarp-exercises/.idea/bootstarp exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bootstrap-exercises.iml" filepath="$PROJECT_DIR$/.idea/bootstrap-exercises.iml" />
     </modules>
   </component>
 </project>

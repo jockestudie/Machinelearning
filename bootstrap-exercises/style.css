@@ -1,8 +1,16 @@
-div[class^="col-"] {
-    /*border: 1px solid black;*/
-    height: 200px;
-}
-body{
-    margin-bottom: 300px
-}
 
+.navbar{
+    border: 3px dotted grey;
+}
+.jumbotron{
+    background: #c2d7d3;
+}
+.panel-body{
+    padding: 30px;
+}
+.btn{
+    text-transform: uppercase;
+}
+.panel-title{
+    color: #761c19;
+}
